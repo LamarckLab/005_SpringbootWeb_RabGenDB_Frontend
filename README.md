@@ -1,6 +1,7 @@
 <h1 align="center">🧬 RabGenDB · 前端</h1>
 
 <p align="center"><em>—— 狂犬病毒基因组数据库的 Vue 前端</em></p>
+<p align="center"><em>—— 2024.12.24</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-Vue%202.6-42B883?style=flat-square" />
